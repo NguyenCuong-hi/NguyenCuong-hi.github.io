@@ -1,0 +1,23 @@
+body
+{
+    background-color: gray;
+}
+h1{
+    font-family: "segoe UI";
+    text-align: left;
+    color: white;
+    
+}
+h3{
+    font-family: "segoe UI";
+}
+.rounded_corner {
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    width:400px;
+    height:100px;
+    background-color:#000;
+    }
+#thongtin{
+    
+}
